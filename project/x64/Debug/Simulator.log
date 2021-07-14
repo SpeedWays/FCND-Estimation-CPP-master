@@ -1,0 +1,6 @@
+﻿  0 File(s) copied
+  QuadEstimatorEKF.cpp
+C:\Users\compel\Desktop\Study\Flying Car\Estimater\FCND-Estimation-CPP-master\src\Math\Mat3x3F.h(89,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\compel\Desktop\Study\Flying Car\Estimater\FCND-Estimation-CPP-master\src\Math\Mat3x3F.h(90,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\compel\Desktop\Study\Flying Car\Estimater\FCND-Estimation-CPP-master\src\QuadEstimatorEKF.cpp(193,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Simulator.vcxproj -> C:\Users\compel\Desktop\Study\Flying Car\Estimater\FCND-Estimation-CPP-master\project\x64\Debug\Simulator.exe
